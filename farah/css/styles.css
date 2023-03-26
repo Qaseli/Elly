@@ -1,0 +1,57 @@
+@charset "utf-8";
+.container-fluid {
+    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(255,255,255,1.00) 21.35%,rgba(255,253,253,1.00) 69.84%,rgba(0,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(255,255,255,1.00) 21.35%,rgba(255,253,253,1.00) 69.84%,rgba(0,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(255,255,255,1.00) 21.35%,rgba(255,253,253,1.00) 69.84%,rgba(0,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(0,0,0,1.00) 0.00%,rgba(255,255,255,1.00) 21.35%,rgba(255,253,253,1.00) 69.84%,rgba(0,0,0,1.00) 100%);
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(43,43,43,1.00) 0%,rgba(118,117,117,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(43,43,43,1.00) 0%,rgba(118,117,117,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(43,43,43,1.00) 0%,rgba(118,117,117,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(43,43,43,1.00) 0.00%,rgba(118,117,117,1.00) 100%);
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #FFF000;
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 100%);
+    color: #F9FF00;
+}
+#accordion1 .card #headingOne1 {
+    background-color: #000000;
+    color: #DAFF00;
+}
+#headingOne1 .mb-0 a {
+    color: #FFF000;
+}
+#headingTwo1 .mb-0 .collapsed {
+}
+#headingTwo1 .mb-0 .collapsed {
+    color: #FFFD00;
+}
+#headingThree1 .mb-0 .collapsed {
+    color: #FFEA00;
+}
+.container-fluid .container .f1 {
+    color: #FFFFFF;
+}
+
+
+
+
+
+#accordion1 .card #headingTwo1 {
+    background-color: #000000;
+    color: #FFF700;
+}
+#accordion1 .card #headingThree1 {
+    background-color: #000000;
+    color: #EDFF00;
+}
+
+#accordion1 .card #headingTwo1 {
+}
